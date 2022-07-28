@@ -15,7 +15,7 @@
 
 <p align="center"> I have experience with </p>
 <p align="center">
-  <img src="https://developer.apple.com/swift/" width="60" height="60" alt="Swift"/>
+  <img src="https://developer.apple.com/swift/images/swift-og.png" width="60" height="60" alt="Unity"/>
   <img src="https://img.icons8.com/color/344/flutter.png" width="60" height="60" alt="Flutter"/>
 </p>
 
