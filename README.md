@@ -17,7 +17,7 @@
     <img src="https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Hakkimizda/render/genel/turkcell-logo/turkcell-logo_325x244.png" width="80" height="80" />
   </a>
   <a href="https://stackoverflow.com/users/14515158/Ömer-faruk?tab=summary" alt="Stackoverflow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="80" height="80" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="80" height="80"   />
   </a>
   <a href="https://www.hackerrank.com/omerfarukozturk1" alt="Stackoverflow">
     <img src="https://user-images.githubusercontent.com/47387270/88639285-3d699900-d0da-11ea-8ef0-39dd521c28b8.jpg" width="80" height="80" />
