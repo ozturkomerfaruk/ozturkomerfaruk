@@ -43,6 +43,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ozturkomerfaruk&show_icons=true&theme=tokyonight&margin-w=20" alt="Github Stats"/>
 </p>
 
-## Snake Eating My Contribution Graph
-
 ![snake gif](https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.gif)
