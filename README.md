@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Ömer Faruk Öztürk</h1>
 
-![snake gif](https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.gif)
-
 <h2 align="center"> My Blog Page </h2>
 <p align="center">
   <a href="https://ozturkomerfaruk.com/" alt="My Blog">
@@ -44,3 +42,6 @@
 </p>
 
 
+
+
+![snake gif](https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.gif)
