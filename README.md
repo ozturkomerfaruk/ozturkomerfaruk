@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Ömer Faruk Öztürk</h1>
+
+![snake gif](https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.gif)
+
 <h2 align="center"> My Blog Page </h2>
 <p align="center">
   <a href="https://ozturkomerfaruk.com/" alt="My Blog">
@@ -12,9 +15,6 @@
   </a>
   <a href="https://app.patika.dev/ozturkomerfaruk" alt="Patika Dev">
     <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" width="80" height="80" />
-  </a>
-  <a href="https://gelecegiyazanlar.turkcell.com.tr/kisi/omerfarukozturk026" alt="Turkcell"> 
-    <img src="https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Hakkimizda/render/genel/turkcell-logo/turkcell-logo_325x244.png" width="80" height="80" />
   </a>
   <a href="https://stackoverflow.com/users/14515158/Ömer-faruk?tab=summary" alt="Stackoverflow">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="80" height="80"   />
@@ -43,4 +43,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ozturkomerfaruk&show_icons=true&theme=tokyonight&margin-w=20" alt="Github Stats"/>
 </p>
 
-![snake gif](https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.gif)
+
