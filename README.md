@@ -35,13 +35,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ozturkomerfaruk&no-frame=true&column=7&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&margin-w=20" alt="Github Trophies"/>
 </p>  
 </br>
-<h3 align="center"> Github Stats </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkomerfaruk&layout=compact&langs_count=8&show_icons=true&theme=tokyonight&margin-w=20" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ozturkomerfaruk&show_icons=true&theme=tokyonight&margin-w=20" alt="Github Stats"/>
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ozturkomerfaruk&show_icons=true&theme=tokyonight&margin-w=20" alt="Github Stats"/>
+  </p>
+</p>
+</br>
+  <p align="center">
+      <img src="https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.gif"/>
+  </p>
 </p>
 
 
-
-
-![snake gif](https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.gif)
