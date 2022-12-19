@@ -41,7 +41,7 @@
 </p>
 </br>
   <p align="center">
-      <img src="https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.gif" style="background-color: rgb(13,17,22);"/>
+      <img src="https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.svg" />
   </p>
 </p>
 
