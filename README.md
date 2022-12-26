@@ -3,7 +3,7 @@
 <h2 align="center"> My Blog Page </h2>
 <p align="center">
   <a href="https://ozturkomerfaruk.com/" alt="My Blog">
-    <img src="https://ozturkomerfaruk.com/wp-content/uploads/2021/10/ozturkomerfaruk.png" width="80" height="80" />
+    <img src="https://omerfarukozturk.com/wp-content/uploads/2021/10/ozturkomerfaruk.png" width="80" height="80" />
   </a>
 </p>
 <h2 align="center"> My Accounts </h2>
