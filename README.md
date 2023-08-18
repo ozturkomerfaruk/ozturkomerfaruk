@@ -1,47 +1,27 @@
-<h1 align="center">Hi, I'm Ömer Faruk Öztürk</h1>
+<h1 align="center"> Hi 👋, I'm Ömer Faruk! </h1>
+<h3 align="center">To be part of an ecosystem that develops applications that touch people's lives. I want to be a developer who makes design decisions and develops reusable software by applying engineering principles. I have UI analysis skills and I have a good command of mobile application development dynamics. 🖥📲</h3>
 
-<h2 align="center"> My Blog Page </h2>
-<p align="center">
-  <a href="https://ozturkomerfaruk.com/" alt="My Blog">
-    <img src="https://omerfarukozturk.com/wp-content/uploads/2021/10/ozturkomerfaruk.png" width="80" height="80" />
-  </a>
-</p>
-<h2 align="center"> My Accounts </h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ozturkomerfaruk/" alt="Linkedin">
-    <img src="https://img.icons8.com/color/344/linkedin.png" width="80" height="80" />
-  </a>
-  <a href="https://app.patika.dev/ozturkomerfaruk" alt="Patika Dev">
-    <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" width="80" height="80" />
-  </a>
-  <a href="https://stackoverflow.com/users/14515158/Ömer-faruk?tab=summary" alt="Stackoverflow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="80" height="80"   />
-  </a>
-  <a href="https://www.hackerrank.com/omerfarukozturk1" alt="Stackoverflow">
-    <img src="https://user-images.githubusercontent.com/47387270/88639285-3d699900-d0da-11ea-8ef0-39dd521c28b8.jpg" width="80" height="80" />
-  </a>
-  <a href="https://www.leetcode.com/omerfarukozturk026" alt="LeetCode">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="80" height="80" />
-  </a>
-</p>
-<h2 align="center"> I have experience with </h2>
-<p align="center">
-  <img src="https://developer.apple.com/swift/images/swift-og.png" width="60" height="60" alt="Unity"/>
-</p>
+- 🔭 I'm trying to learn more about `Swift`
 
-<h3 align="center"> Github Trophies </h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ozturkomerfaruk&no-frame=true&column=7&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&margin-w=20" alt="Github Trophies"/>
-</p>  
-</br>
-  <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ozturkomerfaruk&show_icons=true&theme=tokyonight&margin-w=20" alt="Github Stats"/>
-  </p>
-</p>
-</br>
-  <p align="center">
-      <img src="https://github.com/ozturkomerfaruk/ozturkomerfaruk/blob/output/github-contribution-grid-snake.svg" />
-  </p>
-</p>
+- 🌱 I graduated from **Eskişehir Osmangazi University**
 
+- 💬 Ask me about **Swift - UIKit, SwiftUI**
 
+- 🌎 Skim through my blog page <a href="https://www.omerfarukozturk.com">
+
+- 📫 How to reach me:  ***iletisim@omerfarukozturk.com***
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ozturkomerfaruk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+ 
+
+<h3 align="left">Languages and Tools:</h3>
+            
+<p align="left">
+</a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</p>
+         
+    
