@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ozturkomerfaruk/" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ozturkomerfaruk/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" /></a>
  
 
 <h3 align="left">Languages and Tools:</h3>
