@@ -3,13 +3,13 @@
 
 - 🔭 I'm trying to learn more about `Swift`
 
-- 🌱 I graduated from **Eskişehir Osmangazi University**
+- 🌱 I graduated from `Eskişehir Osmangazi University | GPA: 3.10` 
 
-- 💬 Ask me about **Swift - UIKit, SwiftUI**
+- 💬 Ask me about `Swift - UIKit, SwiftUI`
 
 - 🌎 Skim through my blog page <a href="https://www.omerfarukozturk.com">
 
-- 📫 How to reach me:  ***iletisim@omerfarukozturk.com***
+- 📫 How to reach me: `iletisim@omerfarukozturk.com`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
