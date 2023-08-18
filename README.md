@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Ömer Faruk! </h1>
-<h3 align="center">To be part of an ecosystem that develops applications that touch people's lives. I want to be a developer who makes design decisions and develops reusable software by applying engineering principles. 🖥📲</h3>
+<h3 align="center">To be part of an ecosystem that develops applications that touch people's lives. 🖥📲</h3>
 
 - 🔭 I'm trying to learn more about `Swift`
 
