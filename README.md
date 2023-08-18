@@ -7,13 +7,13 @@
 
 - 💬 Ask me about `Swift - UIKit, SwiftUI`
 
-- 🌎 <a href="https://www.omerfarukozturk.com" target="_blank"> Skim Through My Blog Page </a>
-
 - 📫 How to reach me: `iletisim@omerfarukozturk.com`
+
+- 🌎 <a href="https://www.omerfarukozturk.com" target="_blank"> Skim Through My Blog Page </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ozturkomerfaruk/" target="blank"><img align="center" src="https://colmanandcompany.com/blog/wp-content/uploads/2014/04/blog-word-cloud1.jpg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ozturkomerfaruk/" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" height="30" width="40" /></a>
  
 
 <h3 align="left">Languages and Tools:</h3>
