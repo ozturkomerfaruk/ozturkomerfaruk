@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Ömer Faruk! </h1>
-<h3 align="center">To be part of an ecosystem that develops applications that touch people's lives. 🖥📲</h3>
+<h3 align="center">I deeply appreciate the unique experience that the Apple ecosystem offers, and I love being a part of creating applications that touch users' lives. That's why I work as an iOS developer at Vakıfbank, where I have the opportunity to develop apps that make a difference in people's lives 🖥📲</h3>
 
 - 🔭 I'm trying to learn more about `Swift`
 
