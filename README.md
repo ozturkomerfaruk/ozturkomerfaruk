@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Ömer Faruk! </h1>
+<h1 align="center"> Hi 👋 I'm Ömer Faruk! </h1>
 <h3 align="center">To be part of an ecosystem that develops applications that touch people's lives. I want to be a developer who makes design decisions and develops reusable software by applying engineering principles. I have UI analysis skills and I have a good command of mobile application development dynamics. 🖥📲</h3>
 
 - 🔭 I'm trying to learn more about `Swift`
