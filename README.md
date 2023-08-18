@@ -7,7 +7,7 @@
 
 - 💬 Ask me about `Swift - UIKit, SwiftUI`
 
-- 🌎 Skim through my blog page <a href="https://www.omerfarukozturk.com" target="_blank"> <img src="https://colmanandcompany.com/blog/wp-content/uploads/2014/04/blog-word-cloud1.jpg" alt="Swift" width="40" height="40"/> </a>
+- 🌎 <a href="https://www.omerfarukozturk.com" target="_blank"> Skim Through My Blog Page </a>
 
 - 📫 How to reach me: `iletisim@omerfarukozturk.com`
 
