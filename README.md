@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: `iletisim@omerfarukozturk.com`
 
-- 🌎 <a href="https://www.omerfarukozturk.com" target="_blank"> Skim Through My Blog Page </a>
+- 🌎 <a href="https://www.omerfarukozturk.com" target="_blank"> omerfarukozturk.com </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
