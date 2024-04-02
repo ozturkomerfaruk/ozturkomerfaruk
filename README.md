@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋 I'm Ömer Faruk! </h1>
-<h3 align="center">I deeply appreciate the unique experience that the Apple ecosystem offers, and I love being a part of creating applications that touch users' lives. That's why I work as an iOS developer at Vakıfbank, where I have the opportunity to develop apps that make a difference in people's lives 🖥📲</h3>
+<h3 align="center">To contribute to an innovative ecosystem that develops impactful applications, enriching people’s lives. As a developer, I
+actively shape design decisions and develop reusable software by applying best engineering principles. I possess strong
+expertise in UI analysis and a comprehensive understanding of the dynamics of mobile application development. 🖥📲</h3>
 
 - 🔭 I'm trying to learn more about `Swift`
 
