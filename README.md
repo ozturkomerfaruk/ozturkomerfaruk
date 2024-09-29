@@ -1,7 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Ömer Faruk! </h1>
-<h3 align="center">To contribute to an innovative ecosystem that develops impactful applications, enriching people’s lives. As a developer, I
-actively shape design decisions and develop reusable software by applying best engineering principles. I possess strong
-expertise in UI analysis and a comprehensive understanding of the dynamics of mobile application development. 🖥📲</h3>
+<h3 align="center">As an iOS application developer, I am dedicated to creating user-centric and innovative mobile solutions. Through my experience working at a corporate firm with over ten million active users, I have specialized in the Swift language and aim to develop optimized, performance-focused applications. I keep up with the latest developments in the iOS world and contribute to the community through my self-developed iOSRoadmap application. By paying attention to detailed and high-quality code writing, I believe I can add value to your projects with a collaborative and proactive approach. 🖥📲</h3>
 
 - 🔭 I'm trying to learn more about `Swift`
 
@@ -25,5 +23,6 @@ expertise in UI analysis and a comprehensive understanding of the dynamics of mo
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
-         
+
+         All of my projects are currently private and offered exclusively for a fee. However, you can download the iOSRoadmap app.
     
