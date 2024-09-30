@@ -23,6 +23,7 @@
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
-
-         All of my projects are currently private and offered exclusively for a fee. However, you can download the iOSRoadmap app.
+<div class="center-text">
+        <p>All of my projects are currently private and offered exclusively for a fee. However, you can download the iOSRoadmap app.</p>
+    </div>
     
