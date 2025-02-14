@@ -25,5 +25,5 @@
 </p>
 <div class="center-text">
         <p>All of my projects are currently private and offered exclusively for a fee. However, you can download the iOSRoadmap app.</p>
-    </div>
+    </div> 
     
