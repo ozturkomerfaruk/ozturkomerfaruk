@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm Ömer Faruk! </h1>
+<h1 align="center"> Hi 👋 I'm Ömer Faruk! </h1> 
 <h3 align="center">As an iOS developer and an enthusiast of the Apple ecosystem, I view my profession as a passion and constantly strive to enhance my skills. While staying updated with the latest technologies through SwiftUI, I have honed my expertise in the robust UIKit framework. I prioritize performance-driven, modular, and optimized code, with a strong focus on clean architecture and scalable design. I value unit testing, component-based and generic structures, and am fully adapted to Scrum and Agile methodologies. Proficient in Git and version control systems, I thrive in collaborative environments, enjoying the dynamics of working with large teams while contributing with a strong sense of ownership and alignment with project and company culture. 🖥📲</h3>
 
 - 🔭 I'm trying to learn more about `Swift`
