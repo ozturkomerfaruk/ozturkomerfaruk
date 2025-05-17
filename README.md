@@ -6,7 +6,7 @@
 - 🌱 I graduated from `Eskişehir Osmangazi University | GPA: 3.10` 
  
 - 💬 Ask me about `Swift - UIKit, SwiftUI`
-
+  
 - 📫 How to reach me: `iletisim@omerfarukozturk.com`
 
 - 🌎 <a href="https://www.omerfarukozturk.com" target="_blank"> omerfarukozturk.com </a>
