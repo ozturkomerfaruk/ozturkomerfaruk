@@ -1,30 +1,62 @@
-<h1 align="center"> Hi 👋 I'm Ömer Faruk! </h1> 
-<h3 align="center">As an iOS developer and an enthusiast of the Apple ecosystem, I view my profession as a passion and constantly strive to enhance my skills. While staying updated with the latest technologies through SwiftUI, I have honed my expertise in the robust UIKit framework. I prioritize performance-driven, modular, and optimized code, with a strong focus on clean architecture and scalable design. I value unit testing, component-based and generic structures, and am fully adapted to Scrum and Agile methodologies. Proficient in Git and version control systems, I thrive in collaborative environments, enjoying the dynamics of working with large teams while contributing with a strong sense of ownership and alignment with project and company culture. 🖥📲</h3>
+<h1 align="center">Hi 👋 I'm Ömer Faruk!</h1>
+<h3 align="center">iOS Developer | Swift &amp; SwiftUI Enthusiast | Clean Architecture Advocate</h3>
 
-- 🔭 I'm trying to learn more about `Swift`
-
-- 🌱 I graduated from `Eskişehir Osmangazi University | GPA: 3.10` 
- 
-- 💬 Ask me about `Swift - UIKit, SwiftUI`
-  
-- 📫 How to reach me: `iletisim@omerfarukozturk.com`
-
-- 🌎 <a href="https://www.omerfarukozturk.com" target="_blank"> omerfarukozturk.com </a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ozturkomerfaruk/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" /></a>
- 
-
-<h3 align="left">Languages and Tools:</h3> 
-            
-<p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="50" alt="Swift"/>
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" alt="SwiftUI"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" alt="Firebase"/>
 </p>
-<div class="center-text">
-        <p>All of my projects are currently private and offered exclusively for a fee. However, you can download the iOSRoadmap app.</p>
-    </div>       
-    
- 
+
+---
+
+### 🔍 About Me
+- 💼 **Mid iOS Developer @ ING Bank A.Ş.** (Jan 2025 – Present)  
+- 🏦 **iOS Developer @ VakıfBank** (May 2023 – Dec 2024)  
+- 🛠 Obsessed with modular Super‑App design, Clean Swift VIP, MVVM, VIPER, and high unit‑test coverage  
+- 🎯 Performance hunter—profiling with Instruments, crash/leak elimination, runtime metrics  
+- 🎓 B.Sc. Computer Engineering (GPA 3.10/4.00), **Eskişehir Osmangazi University**  
+
+### 💡 What I’m Working On
+- `iOS Roadmap` – open‑source super‑app (v2.0 in progress)  
+
+### 🚀 Tech Stack
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="38" alt="Swift"/>
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="38" alt="SwiftUI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="38" alt="Xcode"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="38" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" alt="Git"/>
+</p>
+
+| Domain | Highlights |
+|--------|------------|
+| **Swift** | Generics, async/await, protocol‑oriented patterns |
+| **Architectures** | Clean Swift VIP, MVVM, VIPER, multi‑module |
+| **Testing** | XCTest, > 80 % coverage, TDD habit |
+| **CI/CD** | Fastlane, TestFlight, GitHub Actions |
+| **Performance** | Instruments, ARC fine‑tuning, memory‑safe code |
+
+### 📈 Stats
+<!-- Uncomment if you enable GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozturkomerfaruk&show_icons=true&hide_title=true" />
+</p>
+-->
+
+### 📫 Reach Me
+<p>
+  <a href="mailto:omerfarukozturk026@gmail.com"><img src="https://img.shields.io/badge/Email-omerfarukozturk026@gmail.com-informational?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ozturkomerfaruk/"><img src="https://img.shields.io/badge/LinkedIn-Ömer%20Faruk%20Öztürk-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.omerfarukozturk.com"><img src="https://img.shields.io/badge/Portfolio-omerfarukozturk.com-important?style=for-the-badge&logo=safari"></a>
+</p>
+
+---
+
+<div align="center">
+  <samp>
+    “Code is like humor. When you have to explain it, it’s bad.”
+  </samp>
+  <br/><br/>
+  <strong>All of my professional projects are private and available only under contract.  
+  You can, however, download my open‑source <a href="https://apps.apple.com/tr/app/ios-roadmap/id6504702372">iOS Roadmap</a> app.</strong>
+</div>
