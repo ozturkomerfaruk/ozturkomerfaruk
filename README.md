@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ömer Faruk!</h1>
-<h3 align="center">iOS Developer | Swift &amp; SwiftUI Enthusiast | Clean Architecture Advocate</h3>
+<h3 align="center">iOS Developer | Swift - UIKit &amp; SwiftUI Enthusiast | Clean Architecture Advocate</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="50" alt="Swift"/>
