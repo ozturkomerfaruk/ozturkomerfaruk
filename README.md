@@ -17,7 +17,7 @@
 - 🎓 B.Sc. Computer Engineering (GPA 3.10/4.00), **Eskişehir Osmangazi University**  
 
 ### 💡 What I’m Working On
-- `iOS Roadmap` – open‑source super‑app (v2.0 in progress)  
+- [iOS Roadmap](https://github.com/ios-roadmap) – modular open‑source Super‑App to explore scalable iOS architectures and Clean Swift practices (v2.0 in progress)
 
 ### 🚀 Tech Stack
 <p>
